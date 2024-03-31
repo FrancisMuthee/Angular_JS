@@ -26,8 +26,15 @@
             ],
             "styles": [
               "src/styles.css"
+              // "Ceesco/node_modules/bootstrap/dist/css/bootstrap.min.css"
             ],
-            "scripts": []
+            "scripts": [
+              "src/assets/java.js"
+            ]
+              // "Ceesco/node_modules/bootstrap/dist/js/bootstrap.bundle.min.js",
+              // "Ceesco/node_modules/jquery/dist/jquery.min.js"
+              // "src/assets/java.js"
+            // ]
           },
           "configurations": {
             "production": {
