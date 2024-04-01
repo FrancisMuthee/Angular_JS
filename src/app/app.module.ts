@@ -9,6 +9,8 @@ import { ActivitiesComponent } from './activities/activities.component';
 import { FooterComponent } from './footer/footer.component';
 import { LeranComponent } from './leran/leran.component';
 import { ContactsComponent } from './contacts/contacts.component';
+import { DatesComponent } from './dates/dates.component';
+import { CalendarComponent } from './calendar/calendar.component';
 
 
 @NgModule({
@@ -21,6 +23,8 @@ import { ContactsComponent } from './contacts/contacts.component';
     
     LeranComponent,
     ContactsComponent,
+    DatesComponent,
+    CalendarComponent,
 
   ],
   imports: [
